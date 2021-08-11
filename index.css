@@ -1,0 +1,16 @@
+
+
+body{
+  background-color: black;
+  color: white;
+}
+
+.banner{
+  background: linear-gradient(
+    110deg
+    , #100f10 30%, #6c757d 85%);}
+
+  hr{
+     background: linear-gradient( 110deg
+ , #007bff 30%, black 90%);}
+    
